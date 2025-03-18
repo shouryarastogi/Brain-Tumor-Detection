@@ -41,7 +41,7 @@ Both of the new images were Glioma tumors and were predicted correctly.
 ## How to use?
 Use the following:
 
-```git clone https://github.com/Aeryes/BrainTumorClassification.git```
+```git clone https://github.com/shouryarastogi/Brain-Tumor-Detection.git```
 
 Run ```pip install -r requirements.txt```
 
